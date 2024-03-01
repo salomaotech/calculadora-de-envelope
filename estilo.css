@@ -1,0 +1,61 @@
+/* estilo.css */
+
+/* Estilize o contêiner do formulário */
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilize os campos de entrada */
+.campo {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.campo label {
+    font-weight: bold;
+    width: 100px;
+    margin-right: 10px;
+    text-align: right;
+    /* Alinhe o texto à direita */
+}
+
+.campo input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Estilize o botão de calcular */
+.campo input[type="button"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.campo input[type="button"]:hover {
+    background-color: #0056b3;
+}
+
+.imagem {
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    width: 100%;
+
+}
