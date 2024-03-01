@@ -1,0 +1,28 @@
+Dicas para calcular a medida do Envelope de Segurança a ser utilizado:
+
+   1. Para saber a largura ideal:
+
+
+        Largura do Produto + Altura do Produto + 2 (folga de 2 cm).
+         Exemplo:
+         + Largura: 20 cm
+         + Altura: 05 cm
+         + Folga: 02 cm
+         = TOTAL: 27 cm
+
+
+   2. Para saber o comprimento ideal:
+
+
+         Comprimento do Produto + Altura do Produto + 2 (folga de 2 cm).
+         Exemplo:
+         + Comprimento: 30 cm
+         + Altura: 05 cm
+         + Folga: 02 cm
+         = TOTAL: 37 cm
+
+
+   3. O resultado final da medida do produto foi de 27 x 37.
+
+
+   4. Pronto! O Envelope de Segurança que deve ser utilizado é o 32 x 40 cm.
